@@ -7,3 +7,4 @@ The ".expo" folder is created when an Expo project is started using "expo start"
 > Should I commit the ".expo" folder?
 No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
 Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+<img width="1917" height="911" alt="Screenshot 2025-08-19 232253" src="https://github.com/user-attachments/assets/7386cfd7-42b9-4bd0-a8ed-00a2a589175e" />
